@@ -1,0 +1,19 @@
+{
+  "name": "@biryukova-nadezhda/ajs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/biryukova-nadezhda/ajs.git"
+  },
+  "author": "Biryukova Nadezhda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/biryukova-nadezhda/ajs/issues"
+  },
+  "homepage": "https://github.com/biryukova-nadezhda/ajs#readme"
+}
